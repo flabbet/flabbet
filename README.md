@@ -1,4 +1,4 @@
-<img src="https://github.com/flabbet/flabbet/blob/master/top.png" width="600"></img>
+<img src="https://github.com/flabbet/flabbet/blob/master/top.png" width="500"></img>
 ### Hi there 👋
 
 Great to have you here! Feel free to check out some cool projects.
