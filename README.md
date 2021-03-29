@@ -1,5 +1,7 @@
 <img src="https://github.com/flabbet/flabbet/blob/master/top.png" width="500"></img>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flabbet&theme=dark)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 Great to have you here! Feel free to check out some cool projects.
