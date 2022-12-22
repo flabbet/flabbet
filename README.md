@@ -8,7 +8,7 @@ Great to have you here! Feel free to check out some cool projects.
 
 # About me
 
-⌨️ I primarily code in **C#** and **Python**.
+⌨️ I primarily code in **C#**
 
 💻 I am most experienced in **desktop** and **game** development
 
